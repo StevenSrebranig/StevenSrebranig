@@ -23,7 +23,7 @@ My work focuses on lightweight, interpretable methods for stability, drift detec
 
 ### Creative Work
 
-Author of the **Edna Trilogy**, *Soul Mates*, *For the Love of Minne*, and other literary works exploring identity, coherence, and perception.
+Author of *Never Broken*, *Edna Reegina*, and other literary works exploring identity, coherence, and perception.
 
 ### Code & Publications
 
