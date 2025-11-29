@@ -1,4 +1,4 @@
-# Steven F. Srebranig
+# Steven Srebranig
 
 Independent researcher integrating engineering, decision theory, and cognitive modeling.  
 My work focuses on lightweight, interpretable methods for stability, drift detection, and structural coherence in dynamic systems.
