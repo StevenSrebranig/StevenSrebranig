@@ -23,9 +23,12 @@ DOI: 10.5281/zenodo.17691769
 
 Creative Work
 
-Author of Never Broken, Edna Regina, and other literary works exploring identity, coherence, and perception.
+Author of *Never Broken*, *Edna Regina*, and other literary works exploring identity, coherence, and perception.
 
 Code & Publications
+
+All research tools, papers, and technical whitepapers are available on GitHub and Zenodo.
+MIT-licensed and openly accessible.
 
 All research tools, papers, and technical whitepapers are available on GitHub and Zenodo.
 MIT-licensed and openly accessible.
