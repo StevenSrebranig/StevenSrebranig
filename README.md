@@ -29,6 +29,3 @@ Code & Publications
 
 All research tools, papers, and technical whitepapers are available on GitHub and Zenodo.
 MIT-licensed and openly accessible.
-
-All research tools, papers, and technical whitepapers are available on GitHub and Zenodo.
-MIT-licensed and openly accessible.
